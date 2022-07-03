@@ -52,3 +52,37 @@ span{
  .paragraph{
     padding-right: 120px;
 } 
+
+
+.parent-flex{
+    display: flex;
+    background-image: url(images/third.png);
+    background-repeat: no-repeat;
+    background-position:  left;
+}
+
+.ss{
+    width: 50%;
+    box-shadow: 5px 10px 70px grey;
+    margin: 50px;
+    padding: 15px 20px;
+
+}
+
+h2{
+    font-size: 35px;
+}
+
+#bod{
+    border-left: 7px solid tomato;
+    border-radius: 5px;
+}
+
+#back{
+    border-left: 7px solid blue; 
+    border-radius: 5px;
+}
+
+footer p{
+    text-align: center;
+}
